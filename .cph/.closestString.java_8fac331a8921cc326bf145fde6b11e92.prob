@@ -1,0 +1,1 @@
+{"name":"Local: closestString","url":"/Users/ankitsharma/Desktop/Aditya/desktop/java/closestString.java","tests":[{"id":1656573550993,"input":"6\nvml uds aih du vml uds\nvml\nuds","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ankitsharma/Desktop/Aditya/desktop/java/closestString.java","group":"local","local":true}
